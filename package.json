@@ -1,0 +1,24 @@
+{
+  "name": "traveller-tools",
+  "version": "0.0.1",
+  "description": "A set of tools for generating materials related to a traveller campaign",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/butlermd/traveller-tools.git"
+  },
+  "keywords": [
+    "rpg",
+    "rpg-tools",
+    "traveller"
+  ],
+  "author": "Michael D Butler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/butlermd/traveller-tools/issues"
+  },
+  "homepage": "https://github.com/butlermd/traveller-tools#readme"
+}
